@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "mini_news_site",
+  "version": "1.0.0",
+  "description": "A mini project showing some fake news sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarokkin/mini_news_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarokkin/mini_news_site/issues"
+  },
+  "homepage": "https://github.com/amarokkin/mini_news_site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
